@@ -2,3 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/index</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/store</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/reviews</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/gallery-All</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/gallery-Exterior-Cleaning</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/service-House-Wash</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/service-Driveway-and-Sidewalk</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/service-Driveway-Sealing</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/service-Deck-&-Patio-Cleaning</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/service-Roof-Wash</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/service-Fence-Washing</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://pressureworxpowerwash.com/service-Gutter-cleaning</loc>
+        <lastmod>2022-04-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
